@@ -13,7 +13,7 @@ Three operating brands sit under Plainsight Systems LLC, each with its own GitHu
 | Brand | Focus | GitHub |
 |---|---|---|
 | **PlainSight Lab** | Governance and adversarial-resilience research — canonical truth, invariants, stewardship | [github.com/plainsight-lab](https://github.com/plainsight-lab) |
-| **Appario** | AI commerce readiness for merchants | [github.com/Appario](https://github.com/Appario) *(verify org name)* |
+| **Appario** | AI commerce readiness for merchants | [github.com/GetAppario](https://github.com/GetAppario) |
 | **CustodyZero** | Local-first instruments — Factory, Type, Valet, StationZero | [github.com/CustodyZero](https://github.com/CustodyZero) |
 
 ## What lives here
